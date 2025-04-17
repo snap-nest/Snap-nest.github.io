@@ -1,0 +1,22 @@
+<section class="gallery">
+  <div class="photo-card">
+    <img src="https://source.unsplash.com/random/800x600?nature" alt="Nature">
+    <p>Price: ₹499</p>
+    <a class="download-btn" href="https://source.unsplash.com/random/800x600?nature" download>Download</a>
+  </div>
+  <div class="photo-card">
+    <img src="https://source.unsplash.com/random/800x600?city" alt="City">
+    <p>Price: ₹299</p>
+    <a class="download-btn" href="https://source.unsplash.com/random/800x600?city" download>Download</a>
+  </div>
+  <div class="photo-card">
+    <img src="https://source.unsplash.com/random/800x600?people" alt="People">
+    <p>Price: ₹399</p>
+    <a class="download-btn" href="https://source.unsplash.com/random/800x600?people" download>Download</a>
+  </div>
+  <div class="photo-card">
+    <img src="https://source.unsplash.com/random/800x600?travel" alt="Travel">
+    <p>Price: ₹349</p>
+    <a class="download-btn" href="https://source.unsplash.com/random/800x600?travel" download>Download</a>
+  </div>
+</section>
