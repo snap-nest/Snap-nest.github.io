@@ -1,0 +1,7 @@
+<section class="gallery">
+  <div class="photo-card">
+    <img src="https://source.unsplash.com/random/800x600?nature" alt="Nature">
+    <p>Price: ₹499</p>
+    <a class="download-btn" href="upi://pay?pa=ashusinghbhumihar369@upi&pn=SnapNest&am=499&cu=INR" target="_blank">Pay & Download</a>
+  </div>
+</section>
